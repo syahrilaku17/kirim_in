@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943651214946",
+    "firebase_url": "https://cellular-deck-236904.firebaseio.com",
+    "project_id": "cellular-deck-236904",
+    "storage_bucket": "cellular-deck-236904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943651214946:android:bd3b2f6b40ac51bf",
+        "android_client_info": {
+          "package_name": "com.example.kirim_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943651214946-ug6prl6pthjf7a0vd6u0s3ct9vsgta2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kirim_in",
+            "certificate_hash": "02c79d5d7eb29c814b1caeb1bcc8c8c40a183ef5"
+          }
+        },
+        {
+          "client_id": "943651214946-n32rgcsn8hhplhck6kn30le07lj0hjd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbJASIMBsOkdxzldaEk8DVWqc1cu-k53I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943651214946-n32rgcsn8hhplhck6kn30le07lj0hjd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

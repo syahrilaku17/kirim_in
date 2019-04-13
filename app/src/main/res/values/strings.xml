@@ -1,10 +1,11 @@
 <resources>
-<string name="app_name">kirim_in</string>
+    <string name="app_name">kirim_in</string>
 
-<string-array name="category">
-    <item> Food </item>
-    <item> Accesoris </item>
-    <item> Gadget </item>
-    <item> Fashion </item>
-</string-array>
+    <string-array name="category">
+        <item>Food</item>
+        <item>Accesoris</item>
+        <item>Gadget</item>
+        <item>Fashion</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
 </resources>

@@ -17,8 +17,8 @@ class FullCostType :  AppCompatActivity() {
             Toast.makeText(this, "Berhasil upload", Toast.LENGTH_SHORT).show()
         }
         btn_set_location_full.setOnClickListener {
-            Toast.makeText(this, "Seting Lokasi Telah di Buat", Toast.LENGTH_SHORT).show()
-        }
+            val intent = Intent(this,MapsActivity::class.java)
+            startActivity(intent)        }
         btn_post_full.setOnClickListener {
             Toast.makeText(this, "Terima kasih Permintaan anda akan kami proses", Toast.LENGTH_SHORT).show()
         }
